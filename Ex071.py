@@ -30,7 +30,7 @@ while True:
             cédula = 10
         elif cédula == 10:
             cédula = 5
-        elif cédula ==5:
+        elif cédula == 5:
             cédula = 1
         totcédula = 0
         if total == 0:
